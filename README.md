@@ -1,18 +1,7 @@
-## Getting Started
+Program Auto Kliker został stworzony w celu umożliwienia automatycznego klikania na ekranie z określonym interwałem czasowym. Ten narzędzie może być wykorzystywane do różnych zastosowań, takich jak testowanie interfejsu użytkownika, automatyzacja powtarzalnych czynności, czy też symulowanie działania użytkownika w różnego rodzaju aplikacjach.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Program umożliwia użytkownikowi określenie czasu pomiędzy kolejnymi kliknięciami, co pozwala na elastyczne dostosowanie prędkości działania do konkretnych potrzeb i wymagań. Możliwość samodzielnego wyboru odstępu czasu pozwala na dopasowanie programu do różnych scenariuszy użycia, zapewniając spersonalizowane doświadczenie użytkownika.
 
-## Folder Structure
+Auto Kliker oferuje prosty interfejs graficzny, który sprawia, że jest łatwy w obsłudze nawet dla mniej doświadczonych użytkowników. Dzięki temu narzędziu użytkownicy mogą szybko i skutecznie przeprowadzać automatyczne kliknięcia zgodnie z własnymi preferencjami i wymaganiami.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Projekt został zaimplementowany przy użyciu języka programowania Java, co zapewnia jego uniwersalność i łatwość dostosowania do różnych systemów operacyjnych i środowisk programistycznych.
